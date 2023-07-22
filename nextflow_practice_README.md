@@ -7,17 +7,4 @@ Documentation of my nextflow learning journey
 
 ## Description of the contents inside the hellopython.nf file-
 - Contents
-<br/> process sayHello {
-    
-"""
-#!/usr/bin/python3
-
-print("hello world")
-
-"""
-
-}
-
-workflow {
-    sayHello()
-    }
+![image](https://github.com/snehacodes15/nextflow_practice/assets/129862776/1d5fd24f-303e-49d4-937f-ea360cd294aa)
