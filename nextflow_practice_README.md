@@ -7,7 +7,7 @@ Documentation of my nextflow learning journey
 
 ## Description of the contents inside the hellopython.nf file-
 - Contents
-  ![nextflowpic](https://github.com/snehacodes15/nextflow_practice/assets/129862776/5a4739fb-914d-4ead-aaff-f040b519c25a)
+![image](https://github.com/snehacodes15/nextflow_practice/assets/129862776/590da0b5-82d7-49a3-a803-161606d30ef8)
 
   1. The name of the file is hellopython.nf, where nf is extension for nextflow file.
   2. process refers to a task/program/script that can be executed
